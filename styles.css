@@ -1,0 +1,46 @@
+#addDie {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: slategray;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+#rollDice {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: slategray;
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+#sumDice {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: slategray;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.dieDesign {
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-color: cornsilk;
+    color: black;
+    border-radius: 8px;
+    border: solid 4px black;
+    text-align: center;
+    font-size: 90px;
+    margin: 10px 5px 0px 5px;
+    line-height: 150px;
+    vertical-align: middle;
+}
