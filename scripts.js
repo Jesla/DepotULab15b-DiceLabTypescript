@@ -1,3 +1,6 @@
+//***
+// NOTE TO DAVID: I DID WIND UP REFERRING TO THE CLASS EXAMPLE FOR SOME PARTS I COULDN'T FIGURE OUT
+//***
 var Die = (function () {
     function Die() {
     }
